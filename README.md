@@ -16,10 +16,9 @@
 <br>
 
 ### 👉 Main Objective
-<p align="center"> 
 - The Main objective is to increase the Sinhala voice commands used with the mobile phone daily and make it more accessible for the user's lifestyle while increasing mental health   of the user.
 
-</p>
+
 
 
 <br>
