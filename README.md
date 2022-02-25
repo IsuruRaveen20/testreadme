@@ -60,6 +60,7 @@
 	<li>
 	 Improve the capability of providing the most relevant responses to the users’ voice commands. (By using unwanted noise reduction and creating a meaningful phrase) 
 	<br>
+		<br>
 	<b>Sub Objectives</b>
 	</li>
 	<li>
