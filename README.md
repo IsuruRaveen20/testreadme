@@ -17,7 +17,7 @@
 
 ### 👉 Main Objective
 - The Main objective is to increase the Sinhala voice commands used with the mobile phone daily and make it more accessible for the user's lifestyle while increasing mental health of the user.
--
+
 ### 👉 Main Research questions
 <br>
 <ul type="disc">
@@ -35,6 +35,21 @@
 	</li>
 	<li>
 	  Covid-19 pandemic has caused the distance between relatives and family members. Having a virtual assistant that cares about the users’ feelings will solve that.
+	</li>
+</ul>
+<br>
+### 👉 IT19808994 
+<br>
+<p>Individual research question</p>
+<ul type="disc">
+	<li>
+	  How to recognize users’ voice commands more accurately in the Sinhala language?
+	</li>
+	<li>
+	  What are the words that should be filtered in the noise removal process?
+	</li>
+	<li>
+	  How to avoid human errors in the voice recognition process in the Sinhala language?
 	</li>
 </ul>
 <br>
