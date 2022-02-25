@@ -181,13 +181,13 @@
 	 How to track various type of users' behaviors and preferences?
 	</li>
 	<li>
+	  How to provide ideal suggestions according to users' real-time emotions? 
+	</li>
+	<li>
+	 How to generate accurate and ideal suggestions based on combination of results of the above mentioned feelings, prefereces and behavior , user tracking modules?
+	</li>
+	<li>
 	  How to increase mental freedom through the Sinhala voice suggestions?
-	</li>
-	<li>
-	 How to generate accurate and ideal suggestions based on combination of results of the above mentioned feelings, prefereces and behavior , user tracking modules
-	</li>
-	<li>
-	  what are the words that should be filtered and how to demonstrate the relevant answer or answers?
 	</li>
 </ul>
 <br>
