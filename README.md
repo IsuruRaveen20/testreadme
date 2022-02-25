@@ -16,8 +16,15 @@
 <br>
 
 ### 👉 Main Objective
-- The Main objective is to increase the Sinhala voice commands used with the mobile phone daily and make it more accessible for the user's lifestyle while increasing mental health   of the user.
+- The Main objective is to increase the Sinhala voice commands used with the mobile phone daily and make it more accessible for the user's lifestyle while increasing mental health of the user.
+- Main Research questions
+	  - Major vendors in the tech industry are not focused on local languages like Sinhala
+	  - Some Sri Lankans, are not interested in English voice assistant applications due to accent issues and lack of English literacy.
+	  - During stressful situations, people do not like to have responses in foreign languages.
+	  - There is no existing automated voice assistant for locals in Sri Lanka.
+	  - Covid-19 pandemic has caused the distance between relatives and family members. Having a virtual assistant that cares about the users’ feelings will solve that.
 
+	
 
 
 
