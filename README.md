@@ -38,9 +38,9 @@
 	</li>
 </ul>
 <br>
-### 👉 IT19808994 
-<br>
-<p>Individual research question</p>
+
+### 👉 IT19808994
+<p><b>Individual research question</p></b>
 <ul type="disc">
 	<li>
 	  How to recognize users’ voice commands more accurately in the Sinhala language?
