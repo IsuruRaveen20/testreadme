@@ -79,7 +79,7 @@
 <br>
 <br>
 
-### 👉 IT19216010
+### 👉 IT19159768
 <p><b>Individual research question</p></b>
 <ul type="disc">
 	<li>
@@ -124,5 +124,103 @@
 </ul>
 <br>
 <br>
+
+### 👉 IT19216010
+<p><b>Individual research question</p></b>
+<ul type="disc">
+	<li>
+	  How to give accurate voice output and text demonstration, in the Sinhala language?
+	</li>
+	<li>
+	 How should the answer be given according to the relevant command of the user?
+	</li>
+	<li>
+	  When the user requests an address.
+	</li>
+	<li>
+	  when the user request to open the camera
+	</li>
+	<li>
+	  what are the words that should be filtered and how to demonstrate the relevant answer or answers?
+	</li>
+</ul>
+<br>
+
+<p><b>Individual Objectives</p></b>
+<ul type="disc">
+	<b>Specific Objectives</b>
+	<li>
+	 Providing accurate voice output and suggestions according to the user's command.
+	<br>
+	<br>
+	<b>Sub Objectives</b>
+	</li>
+	<li>
+	  Find the relevant answer from the device or the Internet.
+	</li>
+	<li>
+	Translating the received answer into Sinhala.
+	</li>
+	<li>
+	 Training a model to provide Sinhala voice output.
+	</li>
+	<li>
+	Training a model to demonstrate a short and accurate Sinhala suggestion or suggestions.
+	</li>
+</ul>
+<br>
+<br>
+
+### 👉 IT19152592
+<p><b>Individual research question</p></b>
+<ul type="disc">
+	<li>
+	  How to identify users' feelings and emotions via camera?
+	</li>
+	<li>
+	 How to track various type of users' behaviors and preferences?
+	</li>
+	<li>
+	  How to increase mental freedom through the Sinhala voice suggestions?
+	</li>
+	<li>
+	 How to generate accurate and ideal suggestions based on combination of results of the above mentioned feelings, prefereces and behavior , user tracking modules
+	</li>
+	<li>
+	  what are the words that should be filtered and how to demonstrate the relevant answer or answers?
+	</li>
+</ul>
+<br>
+
+<p><b>Individual Objectives</p></b>
+<ul type="disc">
+	<b>Specific Objectives</b>
+	<li>
+	Provide most suitable and ideal suggestions to the user according to real-time emotions and function like a closed and trusted friend to user.
+	<br>
+	<br>
+	<b>Sub Objectives</b>
+	</li>
+	<li>
+	  Identify users’ facial expressions.
+	</li>
+	<li>
+	Identify users’ emotions according to the expressions.
+	</li>
+	<li>
+	Track user and predict based on historical usage. 
+	</li>
+	<li>
+	Gather preferences.
+	</li>
+	<li>
+	Generate Sinhala voice suggestions.
+	</li>
+</ul>
+<br>
+<br>
+
+
+
 
 
