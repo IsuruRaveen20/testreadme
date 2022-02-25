@@ -39,7 +39,7 @@
 </ul>
 <br>
 
-### 👉 IT19808994
+### 👉 IT19808994 - Bandara V.D. Herath H.M.C.P.
 <p><b>Individual research question</p></b>
 <ul type="disc">
 	<li>
@@ -79,7 +79,7 @@
 <br>
 <br>
 
-### 👉 IT19159768
+### 👉 IT19216010 - Herath H.M.C.P.
 <p><b>Individual research question</p></b>
 <ul type="disc">
 	<li>
@@ -125,7 +125,7 @@
 <br>
 <br>
 
-### 👉 IT19216010
+### 👉 IT19159768 - Nirash J.M.I.
 <p><b>Individual research question</p></b>
 <ul type="disc">
 	<li>
@@ -171,7 +171,7 @@
 <br>
 <br>
 
-### 👉 IT19152592
+### 👉 IT19152592 - Senarathne K.H.I.R.
 <p><b>Individual research question</p></b>
 <ul type="disc">
 	<li>
