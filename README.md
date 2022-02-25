@@ -79,4 +79,50 @@
 <br>
 <br>
 
+### 👉 IT19216010
+<p><b>Individual research question</p></b>
+<ul type="disc">
+	<li>
+	  How to separate voice removed Sinhala word into parts as letters?
+	</li>
+	<li>
+	 How to provide accurate English phrases for given phonetics?
+	</li>
+	<li>
+	  What type of words that should be used to trained that acoustic model?
+	</li>
+	<li>
+	  How to increase the accuracy of converted phonetics?
+	</li>
+</ul>
+<br>
+
+<p><b>Individual Objectives</p></b>
+<ul type="disc">
+	<b>Specific Objectives</b>
+	<li>
+	 Generating Sinhala phonetics and provide accurate English phrases.
+	<br>
+	<br>
+	<b>Sub Objectives</b>
+	</li>
+	<li>
+	  Separate Sinhala voice input into parts as letters.
+	</li>
+	<li>
+	 Voice-to-text conversion
+	</li>
+	<li>
+	 Train a model to convert Sinhala to English phonetics.
+	</li>
+	<li>
+	 Matched output Sinhala word with that trained acoustic model.
+	</li>
+	<li>
+	 Translating the generated phonetics to the  English phrase as a result.
+	</li>
+</ul>
+<br>
+<br>
+
 
