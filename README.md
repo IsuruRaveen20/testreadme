@@ -53,6 +53,26 @@
 	</li>
 </ul>
 <br>
+
+<p><b>Individual Objectives</p></b>
+<ul type="disc">
+	<li>
+	 Improve the capability of providing the most relevant responses to the users’ voice commands. (By using unwanted noise reduction and creating a meaningful phrase) Sub 	Objectives
+	</li>
+	<li>
+	  Voice Recognition
+	</li>
+	<li>
+	 Voice-to-text conversion
+	</li>
+	<li>
+	  Noise Removal
+	</li>
+	<li>
+	 Creating meaningful phrases out of users’ voice commands.
+	</li>
+</ul>
+<br>
 <br>
 
 
