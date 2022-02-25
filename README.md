@@ -39,7 +39,7 @@
 </ul>
 <br>
 
-### 👉 IT19808994 - Bandara V.D. Herath H.M.C.P.
+### 👉 IT19808994 - Bandara V.D. 
 <p><b>Individual research question</p></b>
 <ul type="disc">
 	<li>
